@@ -15,7 +15,7 @@ This script is a simple keylogger that captures and saves keyboard inputs to a f
 ## **Setup and Usage**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/keylogger-script.git
+   git clone https://github.com/shootout19/keylogger.git
    cd keylogger-script
 2. Install the required library:
    ```bash
